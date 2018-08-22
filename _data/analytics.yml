@@ -1,0 +1,9 @@
+google:
+  id: UA-121779972-1
+
+matomo:
+  url: https://vps.anyi.life/analytics/
+  domains:
+  - "*.anyi.life"
+  site_id: 1
+  token: 08f71596a4c68c7eae2daeb794a1fa69

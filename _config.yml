@@ -1,0 +1,45 @@
+repository: anyi98 / anyi98.github.io
+repository_url: https://github.com/anyi98
+
+timezone: Asia/Handan
+lang: zh_CN
+
+title: 安逸导航·AnYi-Navi
+alias_en: AnYi-Navi
+alias_cn: 安逸导航
+description: 在此寻觅最优秀的网站丨安逸导航
+keywords: 安逸导航, AnYi-Navi, AnYI, HEBART, Navi, Navigation
+url: https://anyi.life
+url: https://anyi98.github.io
+established_at: "2018-07-07T00:00+08:00"
+
+
+author: AnYi
+author_url: https://anyi.life
+organization: AnYi-Blog
+organization_url: https://blog.anyi.life
+contact: G298@QQ.COM
+
+image: /images/logo.png
+logo: /images/logo.png
+logo_dark: /images/logo-dark.svg
+logo_white: /images/logo-white.svg
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor
+
+encoding: UTF-8
+
+theme: jekyll-theme-cayman
